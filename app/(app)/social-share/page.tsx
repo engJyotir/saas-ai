@@ -2,7 +2,7 @@ import React from 'react'
 
 function SocialShare() {
   return (
-    <div>page</div>
+    <div>page fast</div>
   )
 }
 
